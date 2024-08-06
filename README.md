@@ -11,8 +11,7 @@
     - [Appointment Configuration by Admin](#appointment-configuration-by-admin)
     - [Google Calendar Integration](#google-calendar-integration)
 5. [Achievements and Results](#achievements-and-results)
-8. [Screenshots](#screenshots)
-11. [Contact Information](#contact-information)
+6. [Contact Information](#contact-information)
 
 ## Project Description
 This website is designed for a physiotherapist to streamline the appointment booking process and enhance communication with patients. The project includes a variety of features that allow patients to easily manage their appointments and contact the physiotherapist.
