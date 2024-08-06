@@ -12,6 +12,7 @@
     - [Google Calendar Integration](#google-calendar-integration)
 5. [Achievements and Results](#achievements-and-results)
 6. [Contact Information](#contact-information)
+7. [Official Website](#official-website)
 
 ## Project Description
 This website is designed for a physiotherapist to streamline the appointment booking process and enhance communication with patients. The project includes a variety of features that allow patients to easily manage their appointments and contact the physiotherapist.
@@ -63,3 +64,8 @@ For any inquiries or further information, please contact:
 - **Email:** p.rakocki@gmail.com
 - **LinkedIn:** www.linkedin.com/in/piotr-rakocki-732316245
 - **GitHub:** github.com/piotrrakocki
+
+## Official Website
+You can visit the official website [here](https://fizjocezar.pl/).
+
+*Note: The servers may be temporarily down as we are waiting for content from the client.*
