@@ -53,9 +53,6 @@ The administrator can configure available appointment times through a user-frien
 ### Google Calendar Integration
 Once the physiotherapist confirms an appointment, it is automatically added to their Google Calendar. This integration ensures that the physiotherapist's schedule is always up-to-date and helps in managing appointments more efficiently.
 
-![Google Calendar Integration](screenshots/google-calendar.png)
-*Description:* Integration of appointments with Google Calendar.
-
 ## Achievements and Results
 - Enabled patients to easily manage their appointments and directly contact the physiotherapist.
 - Automated the appointment booking process, reducing errors and the time needed for schedule management.
